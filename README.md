@@ -1,7 +1,1 @@
-# Next
-
-## Install
-
-```
-$ yarn install
-```
+# 김재민
